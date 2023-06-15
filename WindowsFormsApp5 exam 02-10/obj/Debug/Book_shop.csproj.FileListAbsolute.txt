@@ -1,0 +1,46 @@
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\Book shop.exe.config
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\Book shop.exe
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\Book shop.pdb
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.dll
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.dll
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.xml
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.xml
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.AssemblyReference.cache
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.SuggestedBindingRedirects.cache
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.Form1.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormAmount.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormAuthor.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormBook.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormEnter.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormPublishHouse.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormReserve.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormTheme.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.Properties.Resources.resources
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.GenerateResource.cache
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.CoreCompileInputs.cache
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.CopyComplete
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book shop.exe
+D:\NINA\GitHub\WindowsFormsApp5 book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book shop.pdb
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\Book shop.exe.config
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\Book shop.exe
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\Book shop.pdb
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.dll
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.dll
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.xml
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.xml
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.AssemblyReference.cache
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.SuggestedBindingRedirects.cache
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.Form1.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormAmount.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormAuthor.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormBook.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormEnter.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormPublishHouse.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormReserve.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.FormTheme.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.Properties.Resources.resources
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.GenerateResource.cache
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.CoreCompileInputs.cache
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book_shop.csproj.CopyComplete
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book shop.exe
+D:\NINA\GitHub\Book shop\WindowsFormsApp5 exam 02-10\obj\Debug\Book shop.pdb

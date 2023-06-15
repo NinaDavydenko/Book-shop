@@ -1,0 +1,68 @@
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.exe.config
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.exe
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.pdb
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.dll
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.xml
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.AssemblyReference.cache
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.Properties.Resources.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.GenerateResource.cache
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.CoreCompileInputs.cache
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.CopyComplete
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.exe
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.pdb
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormEnter.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.Form1.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormAuthor.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormBook.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormPublishHouse.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormTheme.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormAmount.resources
+D:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormReserve.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.exe.config
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.exe
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.pdb
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.dll
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.dll
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.xml
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.xml
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.AssemblyReference.cache
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.SuggestedBindingRedirects.cache
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.Form1.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormAmount.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormAuthor.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormBook.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormEnter.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormPublishHouse.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormReserve.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormTheme.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.Properties.Resources.resources
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.GenerateResource.cache
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.CoreCompileInputs.cache
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.CopyComplete
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.exe
+G:\Ніна\Академія\ADO NET\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.pdb
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.exe.config
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.exe
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\WindowsFormsApp5 exam 02-10.pdb
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.dll
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.dll
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.xml
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\bin\Debug\EntityFramework.SqlServer.xml
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.AssemblyReference.cache
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.SuggestedBindingRedirects.cache
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.Form1.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormAmount.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormAuthor.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormBook.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormEnter.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormPublishHouse.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormReserve.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.FormTheme.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5_exam_02_10.Properties.Resources.resources
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.GenerateResource.cache
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.CoreCompileInputs.cache
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.csproj.CopyComplete
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.exe
+D:\NINA\GitHub\WindowsFormsApp5 exam 02-10\WindowsFormsApp5 exam 02-10\obj\Debug\WindowsFormsApp5 exam 02-10.pdb
